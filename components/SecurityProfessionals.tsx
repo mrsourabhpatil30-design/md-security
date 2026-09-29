@@ -77,7 +77,7 @@ export const SecurityProfessionals: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-12 items-center">
             <div className="md:col-span-7 h-72 sm:h-80">
               <img
-                src="/src/assets/images/indian_guard_industrial_gate_1790692932721.jpg"
+src="/indian_guard_industrial_gate_1790692932721.jpg"
                 alt="Indian security guard inspecting vehicle and register at industrial gate in Maharashtra"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover filter brightness-95"
