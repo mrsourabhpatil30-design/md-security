@@ -487,7 +487,7 @@ export const GALLERY_ITEMS: GalleryImage[] = [
     id: 'gal-1',
     title: 'Indian Security Guard Personnel Squad',
     category: 'Security Team',
-    imageUrl: '/src/assets/images/indian_security_guards_hero_1790692918464.jpg',
+imageUrl: '/indian_security_guards_hero_1790692918464.jpg',
     caption: 'Disciplined Indian security guards in crisp navy blue uniforms standing at the entrance of an industrial facility in Maharashtra.',
     locationTag: 'Maharashtra MIDC Site'
   },
