@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({ onQuoteClick }) => {
       {/* Background Photography with Measured Scrim Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/indian_security_guards_hero_1790692918464.jpg"
+src="/indian_security_guards_hero_1790692918464.jpg"
           alt="Disciplined Indian security guards in uniform deployed at industrial facility gate in Maharashtra"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center filter brightness-95"
