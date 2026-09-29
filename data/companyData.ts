@@ -495,7 +495,7 @@ export const GALLERY_ITEMS: GalleryImage[] = [
     id: 'gal-2',
     title: 'MIDC Factory Gate & Vehicle Checkpoint',
     category: 'Industrial Security',
-    imageUrl: '/src/assets/images/indian_guard_industrial_gate_1790692932721.jpg',
+imageUrl: '/indian_guard_industrial_gate_1790692932721.jpg',
     caption: 'Indian security guard verifying material gate passes, recording vehicle logs, and checking personnel entry at an industrial gate.',
     locationTag: 'MIDC Industrial Gate'
   },
