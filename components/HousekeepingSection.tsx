@@ -28,7 +28,7 @@ export const HousekeepingSection: React.FC<HousekeepingSectionProps> = ({ onQuot
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center mb-16">
           <div className="lg:col-span-5 relative rounded-2xl overflow-hidden border border-slate-800 bg-slate-950">
             <img
-              src="/src/assets/images/indian_housekeeping_facility_staff_1790692972764.jpg"
+src="/indian_housekeeping_facility_staff_1790692972764.jpg"
               alt="Indian housekeeping team staff maintaining corporate facility cleanliness in Maharashtra"
               referrerPolicy="no-referrer"
               className="w-full h-80 sm:h-96 object-cover filter brightness-95"
