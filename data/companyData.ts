@@ -399,7 +399,8 @@ export const IMPORTANT_CLIENTS: ClientItem[] = [
     category: 'Industrial',
     shortName: 'RIO',
     isHousekeepingClient: false
-  },
+  },imageUrl: '/indian_security_guards_hero_1790692918464.jpg',
+  
   {
     id: 'client-15',
     name: 'Rubaru Real Estate',
